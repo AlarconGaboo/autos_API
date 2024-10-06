@@ -1,0 +1,38 @@
+{
+  "7c4cb538-5cb0-46ba-a5ee-1c5a0146da02": {
+    "marca": "Ford",
+    "modelo": "Fiesta",
+    "año": 2019,
+    "precio": 13000
+  },
+  "a3943061-b0da-48dc-8ad4-7a0900fa7744": {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2020,
+    "precio": 15000
+  },
+  "ae4de7fa-1cb0-471f-a6ce-6d1d79e3d19b": {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2021,
+    "precio": 18000
+  },
+  "debb446b-5658-4e02-8264-32f91e8fc5b6": {
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "año": 2018,
+    "precio": 14000
+  },
+  "bb3cee90-c248-4b57-a429-1c16fe87486b": {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "año": 2019,
+    "precio": 16000
+  },
+  "6c056e8c-ba9c-4f1b-9c5c-777e5e5fa6b0": {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "año": 2017,
+    "precio": 13500
+  }
+}
